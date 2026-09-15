@@ -21,3 +21,10 @@ La estructura de la página ocupa el **100% de ancho** y **100vh de alto**. Ahor
   - **Miniatura 2**: Ancho `20%`, Alto `20%`.
   - **Miniatura 3**: Ancho `20%`, Alto `20%`.
   - **Footer**: Ancho `40%`, Alto `20%`.
+
+## Paleta de Colores (Basada en Diseño Final):
+
+- **Fondo Principal:** `#FFFFFF` (Blanco puro)
+- **Fondo Secundario (Fondo Imagen Hero):** `#F9FAFB` (Gris blanquecino)
+- **Color de Títulos y Texto:** `#000000` (Negro puro)
+- **Líneas divisorias y bordes:** `#E5E7EB` (Gris claro)
